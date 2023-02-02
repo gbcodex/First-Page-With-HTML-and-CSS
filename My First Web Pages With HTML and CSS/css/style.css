@@ -1,0 +1,41 @@
+body {
+  background-color: #677DB7;
+  color: #fff;
+  font-family: 'Courier New', Arial, Serif;
+  padding: 20px;
+  border: 20px solid white;
+  width: 50%;
+  margin: 20px auto;
+}
+
+h1 {
+	color: #b7e5d6;
+	font-size: 3em;
+}
+
+h2 {
+	letter-spacing: 0.08em;
+	font-size: 1.5em;
+}
+
+li {
+	line-height: 1.4em;
+	text-transform: capitalize;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:visited {
+	color: #fff;
+}
+
+a:hover {
+	font-weight: normal;
+	color: #151814;
+}
+
+a:active {
+	color: #b7e5d6;
+}
